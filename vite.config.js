@@ -7,7 +7,7 @@ export default defineConfig({
   base: "/bandelaria-portfolio",
   css: {
     modules: {
-      localsCovention: "camelCase"
+      localsConvention: "camelCase"
     }
   }
 })
