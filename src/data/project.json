@@ -1,0 +1,26 @@
+[
+  {
+    "title": "K-Chingu: K-pop Store",
+    "imageSrc": "projects/kchingulogo.png",
+    "description": "E-Commerce website for K-pop items and merhandise.",
+    "skills": ["HTML", "CSS", "Bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "CurrenSee: PH Currency Indentifier",
+    "imageSrc": "projects/currenseelogo.png",
+    "description": "Mobile app for the blind people.",
+    "skills": ["Java", "Python", "C++"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "My Portfolio",
+    "imageSrc": "projects/profileIcon.jpg",
+    "description": "This is a portfolio made for you to know about me.",
+    "skills": ["React", "Vite", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
